@@ -8,4 +8,4 @@
 
 
 - 블로그(velog)  (https://velog.io/@ysong)
-- notion (https://www.notion.so/0a1e939356474f2ea537aa1d18625a46) 
+- 자기소개(notion) (https://www.notion.so/0a1e939356474f2ea537aa1d18625a46) 
