@@ -7,5 +7,5 @@
 - DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
 
 
-- 블로그(velog)  (https://velog.io/@ysong)
-- 자기소개(notion) (https://www.notion.so/0a1e939356474f2ea537aa1d18625a46) 
+<!-- - 블로그(velog)  (https://velog.io/@ysong)
+- 자기소개(notion) (https://www.notion.so/0a1e939356474f2ea537aa1d18625a46)  -->
