@@ -70,7 +70,6 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 
 **IDE & Assist programs**  
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?&style=for-the-badge&logo=Neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
