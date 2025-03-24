@@ -37,13 +37,15 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 #### 📜 Projects summary
 
 - [**만들어진 사이트 데이터 크롤러**](http://www.chongshin.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - 크롤링해서 데이터 정제 qqty로 접속이후 리눅스에서도
+  - 크롤링해서 데이터 정제 리눅스환경에서 개발했
 
 - [**회사 Performance 자동화 Jenkins Job**](https://jaseng.education) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - 젠킨스에서 돌아서 컨플루언스api를 사용해서 엑셀로 기록되록 뱐경
+  - 젠킨스에서 돌아서 컨플루언스api를 사용해서 페이지에 기록이 되도륙변경
+  - python scrip로 기존에 돌리던 작업을 자동화
 
-- [**텔레그램 봇 연동**](http://edu.stop.or.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
+- [**텔레그램 봇**]  
   - 비동기 뭐시기 해서 빨리한 경험
+  - 변화가 감지되면 텔레그램 봇으로 전송
 
 - [**simple dict**](http://jb.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)  
   - api 만들기
@@ -53,7 +55,6 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 
 - **resee** (Spring, Mybatis / jQuery, VanillaJS 기반 E-commerce 솔루션)  
   - 뭐더라...
-
 ---
 
 ## 🛠 Common Tech Stack (Mostly Use)
