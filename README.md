@@ -7,9 +7,8 @@
 Python 백엔드 및 데이터 엔지니어에 관심이 많은 **예비 Python 개발자**입니다.  
 필요한 기술을 목적과 상황에 맞춰 빠르게 습득하고 적용하는 것을 선호합니다.  
 
-6개월간 외주 프로젝트를 진행하며, 업무 자동화와 비용 절감에 기여했습니다.  
-회사 재직 중에도 Python 스크립트와 Jenkins Job을 통해 반복 업무를 자동화하고, 
-크몽 서비스에서 50점을 유지하며 프로젝트를 꾸준히 진행해 온 경험이 있습니다.
+회사 재직 중에도 Python 스크립트와 Jenkins Job을 통해 반복 업무를 자동화하여 기여했습니다.
+6개월간 크롤링 외주 서비스를 5점을 유지하며 진행해 온 경험이 있습니다.
 
 ---
 
@@ -37,22 +36,22 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 #### 📜 Projects summary
 
 - [**만들어진 사이트 데이터 크롤러**](http://www.chongshin.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - ㅁㄴㅇㄹ
+  - 크롤링해서 데이터 정제 qqty로 접속이후 리눅스에서도
 
 - [**회사 Performance 자동화 Jenkins Job**](https://jaseng.education) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - ㅁㄴㅇㄹ
-
-- [**powerpro 자동화**](http://edu.stop.or.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - ㅁㄴㅇㄹ
+  - 젠킨스에서 돌아서 컨플루언스api를 사용해서 엑셀로 기록되록 뱐경
 
 - [**텔레그램 봇 연동**](http://edu.stop.or.kr) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-  - ㅁㄴㅇㄹ
+  - 비동기 뭐시기 해서 빨리한 경험
 
 - [**simple dict**](http://jb.ac.kr) ![role-badge](https://img.shields.io/badge/Role-FE/BE-blueviolet)  
-  - ㅁㄴㅇㄹ
+  - api 만들기
+  - jwt만들기
+  - cicid 구현하디
+  - 백엔드로직 만들기
 
 - **resee** (Spring, Mybatis / jQuery, VanillaJS 기반 E-commerce 솔루션)  
-  - ㅁㄴㅇㄹ
+  - 뭐더라...
 
 ---
 
