@@ -15,7 +15,7 @@ Python 백엔드 및 데이터 엔지니어에 관심이 많은 **Python 개발�
 ## 🎓 Education/Experiences
 
 ### Education
-- (중퇴) 42 서울 (20.1 ~ 21.1)
+- (중퇴) 42 서울  2차 1기 (20.1 ~ 21.1)
 
 ### Working Experiences
 - (현) chipsandmidea - Python, Shell Script (24.07 ~ )
@@ -39,14 +39,13 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
   - Fast API와 Docker를 활용한 비동기 통신 구현 (진행중)
 
 - **회사 Performance 자동화 Jenkins Job**  
-  ![role-badge](https://img.shields.io/badge/Role-FE-red)  
   - 젠킨스(Jenkins)를 활용하여 빌드 및 배포 프로세스를 자동화하였습니다.
   - 컨플루언스(Confluence) API를 연동해 작업 결과 및 변경 내역을 자동으로 기록하도록 구현하였습니다.
   - Python 스크립트를 사용해 기존 수동 작업을 자동화하여 운영 효율성을 크게 향상시켰습니다.
 
 - **웹사이트 개발 및 운영 경험**  
   - [**simple dict 프로젝트**](https://github.com/djgnfj-svg/Simple-Diet-Manager)  
-    ![role-badge](https://img.shields.io/badge/BE-blueviolet)  
+    ![role-badge](https://img.shields.io/badge/BE-blueviolet)
     - Django를 기반으로 웹 애플리케이션을 개발하며 Django REST Framework(DRF)를 활용해 REST API를 구축하였습니다.
     - Swagger(OpenAPI)를 사용하여 API 문서를 자동 생성하고, 이를 통해 API 사용 및 유지보수를 용이하게 하였습니다.
     - JWT 인증 체계를 도입해 사용자 인증 및 보안을 강화하였습니다.
@@ -54,8 +53,8 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
     - (참고: 해당 코드베이스는 다소 이전 버전이지만, DRF의 다양한 기능들을 모두 경험하였습니다.)
 
 - **크롤링 외주 및 데이터 처리 프로젝트**  
-  - [크몽](https://kmong.com) ![role-badge](https://img.shields.io/badge/Role-FE-red)  
-    - 특정 웹사이트(예: [http://www.chongshin.ac.kr](http://www.chongshin.ac.kr))의 데이터를 크롤링하여 정제 및 분석하였습니다.
+  - [크몽](https://kmong.com/@%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%91%ED%95%98)  
+    - 여러 웹사이트의 데이터를 크롤링하여 정제 및 분석하였습니다.
     - 리눅스 환경에서 비동기 프로그래밍 기법을 적용해 크롤링 성능을 최적화하였습니다.
     - 데이터의 변화가 감지되면 텔레그램 봇을 통해 실시간으로 알림을 전송하는 시스템을 구축하였습니다.
     - 크롤링 대상 웹사이트의 구조 변화에 유연하게 대응할 수 있도록 모듈화된 코드와 예외 처리 로직을 구현하였습니다.
