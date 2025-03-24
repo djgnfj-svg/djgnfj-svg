@@ -65,19 +65,19 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 ## 🛠 Common Tech Stack (Mostly Use)
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell%20script-4EAA25.svg?&style=for-the-badge&logo=shell&logoColor=white)
 
 **Frameworks & Libraries**  
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![django-rest-framework](https://img.shields.io/badge/django--rest--framework-092E20.svg?&style=for-the-badge&logo=django-rest-framework&logoColor=white)
 
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 **IDE & Assist Programs**  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
@@ -88,15 +88,15 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df12.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 
 **Frameworks & Libraries**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009488.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009488.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 
 **Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 
 **IDEs & Assist Programs**  
-![Cursor](https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
