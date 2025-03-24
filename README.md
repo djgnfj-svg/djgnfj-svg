@@ -34,8 +34,7 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 
 #### 📜 Projects summary
 
-- **kkua**  
-  (Spring, Mybatis / jQuery, VanillaJS 기반 E-commerce 솔루션) (진행중)  
+- **kkua**   (진행중)  
   - Fast API와 Docker를 활용한 비동기 통신 구현 (진행중)
 
 - **회사 Performance 자동화 Jenkins Job**  
