@@ -44,8 +44,7 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
   - Python 스크립트를 사용해 기존 수동 작업을 자동화하여 운영 효율성을 크게 향상시켰습니다.
 
 - **웹사이트 개발 및 운영 경험**  
-  - [**simple dict 프로젝트**](https://github.com/djgnfj-svg/Simple-Diet-Manager)  
-    ![role-badge](https://img.shields.io/badge/BE-blueviolet)
+  - [**simple dict 프로젝트**](https://github.com/djgnfj-svg/Simple-Diet-Manager)![role-badge](https://img.shields.io/badge/BE-blueviolet)
     - Django를 기반으로 웹 애플리케이션을 개발하며 Django REST Framework(DRF)를 활용해 REST API를 구축하였습니다.
     - Swagger(OpenAPI)를 사용하여 API 문서를 자동 생성하고, 이를 통해 API 사용 및 유지보수를 용이하게 하였습니다.
     - JWT 인증 체계를 도입해 사용자 인증 및 보안을 강화하였습니다.
