@@ -16,7 +16,7 @@ Python 백엔드 및 데이터 엔지니어에 관심이 많은 **예비 Python 
 ## 🎓 Education/Experiences
 
 ### Education
-- (중퇴) 42 서울 (14.2 ~ 21.2)
+- (중퇴) 42 서울 (20.1 ~ 21.1)
 
 ### Working Experiences
 - (현) chipsandmidea python, shell script (24.07 ~ )
