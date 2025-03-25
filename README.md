@@ -1,5 +1,5 @@
-# Developer hooru
-> 늦게나마 MLOps 개발자로 진로를 정한 hooru입니다.
+# Developer
+> 파이썬을 활용한 다양한 계발을 하고있는 송영재입니다.
 
 [![Gmail](https://img.shields.io/badge/djgnfj@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:djgnfj3795@gmail.com)
 
@@ -18,7 +18,7 @@ Python 백엔드 및 데이터 엔지니어에 관심이 많은 **Python 개발�
 - (중퇴) 42 서울  2차 1기 (20.1 ~ 21.1)
 
 ### Working Experiences
-- (현) chipsandmidea - Python, Shell Script (24.07 ~ )
+- (현) chipsandmidea vs(qa)팀- Python, Shell Script (24.07 ~ )
 - (전) Python Crawling, Shell Script (24.01 ~ 24.07)
 
 ---
