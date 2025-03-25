@@ -1,10 +1,10 @@
 # Developer
-> 파이썬을 활용한 다양한 계발을 하고있는 송영재입니다.
+> 파이썬을 활용한 다양한 개발을 하고있는 송영재입니다.
 
 [![Gmail](https://img.shields.io/badge/djgnfj@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:djgnfj3795@gmail.com)
 
 ## ✨ Introduction
-Python 백엔드 및 데이터 엔지니어에 관심이 많은 **Python 개발자**입니다.  
+Python 백엔드 및 데이터 엔지니어에 관심이 많은 개발자입니다.  
 필요한 기술을 목적과 상황에 맞춰 빠르게 습득하고 적용하는 것을 선호합니다.
 
 회사 재직 중에도 Python 스크립트와 Jenkins Job을 통해 반복 업무를 자동화하여 기여했습니다.  
