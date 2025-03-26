@@ -35,8 +35,8 @@ Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여�
 #### 📜 Projects summary
 
 - **kkua** (진행중)
--   끝말잊기 웹사이트를 구현
--   Fast API를  활용한 비동기 통신 구현
+  - 끝말잊기 웹사이트를 구현
+  - Fast API를  활용한 비동기 통신 구현
 
 - **회사 Performance 자동화 Jenkins Job**  
   - 젠킨스(Jenkins)를 활용하여 FPGA 결과나 특정 툴의 결과 출력을 자동화했습니다.
