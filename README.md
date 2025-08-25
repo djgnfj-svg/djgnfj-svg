@@ -1,103 +1,88 @@
-# Developer
-> 파이썬을 활용한 다양한 개발을 하고있는 송영재입니다.
+# **Summary**
 
-[![Gmail](https://img.shields.io/badge/djgnfj@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:djgnfj3795@gmail.com)
+안녕하세요. 자동화와 성능 최적화를 통해 비즈니스 가치를 만드는 백엔드 개발자입니다.
 
-## ✨ Introduction
-Python 백엔드 및 데이터 엔지니어에 관심이 많은 개발자입니다.  
-필요한 기술을 목적과 상황에 맞춰 빠르게 습득하고 적용하는 것을 선호합니다.
+Chips&Media에서 Python 스크립트로 테스트 공수를 제거하고 처리 속도를 60% 향상시킨 경험이 있습니다. 
 
-회사 재직 중에도 Python 스크립트와 Jenkins Job을 통해 반복 업무를 자동화하여 기여했습니다.  
-6개월간 크롤링 외주 서비스를 5점을 유지하며 진행해 온 경험이 있습니다.
+FastAPI, Django 등을 활용해 실시간 서비스와 복잡한 도메인의 웹 애플리케이션을 설계하고 AWS에 배포 및 운영하며 고성능 서버 개발 역량을 길렀습니다.
 
----
+### **기술 스택 (Tech Stack)**
 
-## 🎓 Education/Experiences
+- **Language**: Python
+- **Frameworks**: Django, Django REST Framework, FastAPI
+- **Database**: PostgreSQL, Redis
+- **DevOps**: AWS, Docker, GitHub Actions, Jenkins
+- **Libraries & Tools**: Celery, RabbitMQ, aiohttp, Streamlit
 
-### Education
-- (중퇴) 42 서울  2차 1기 (20.1 ~ 21.1)
+# Experiences
 
-### Working Experiences
-- (현) chipsandmidea vs(qa)팀- Python, Shell Script (24.07 ~ )
-- (전) Python Crawling, Shell Script (24.01 ~ 24.07)
+**Chips&Media** VS(QA) Team
 
----
+기간 2024.07.15 ~ 2025.07.14
 
-## 🎞 Experience Details
+**주요 역할**: Python을 활용한 테스트 및 측정 프로세스 자동화 시스템 설계 및 성능 최적화
 
-주로 **Python**으로 다양한 프로젝트를 진행했습니다.  
-주기에 맞춰 데이터를 크롤링해서 데이터베이스에 저장하는 업무를 담당했습니다.  
-대부분의 팀프로젝트와 개인 프로젝트에서는 **백엔드 로직 및 API 개발**을 담당했습니다.  
-Jenkins Job을 통해 반복 업무를 자동화하고, 비용 절감에 기여한 경험도 있습니다.
+- **수작업 제거를 위한 Power 측정 파이프라인 자동화**
+    - **수행**: 수동으로 진행되던 로그 기록, PC 대여, 파일 수정 등 전체 과정을 Python 스크립트로 자동화하고 Jenkins CI 파이프라인에 연동
+    - **성과**: 엔지니어의 반복적인 수작업 공수를 완전히 제거하여, 핵심적인 분석 및 개발 업무에 집중할 수 있는 환경을 조성
+- **라이선스 병목 현상 해결 및 분석 효율 증가를 위한 시각화 대시보드 개발**
+    - **수행**: Streamlit을 활용해 측정 결과(txt, csv)를 실시간으로 분석하는 웹 대시보드를 개발하여 고가의 상용 GUI 툴 의존도를 제거
+    - **성과**: 라이선스 점유로 인한 작업 대기 시간을 없애고, 여러 측정 결과를 동시에 비교 분석할 수 있는 환경을 구축하여 테스트 사이클 단축에 기여
+- **처리 속도 60% 향상을 달성한 대용량 데이터 스크립트 최적화**
+    - **수행**: 1시간 이상 소요되던 10만 줄 이상의 데이터 처리 로직에 멀티스레딩을 적용하고 알고리즘을 개선.
+    - **성과**: 기존 대비 **측정 속도 60% 향상**, **코드 라인 40% 감소**를 달성했으며, 데이터 오류를 조기에 발견할 수 있도록 함.
 
----
+# Projects
 
-#### 📜 Projects summary
+### **Resee | AI 기반 스마트 복습 플랫폼**
 
-- **kkua** (진행중)
-  - 끝말잊기 웹사이트를 구현
-  - Fast API를  활용한 비동기 통신 구현
+AI로 최적의 복습 시점을 추천하는 지능형 학습 관리 플랫폼 백엔드 개발
 
-- **회사 Performance 자동화 Jenkins Job**  
-  - 젠킨스(Jenkins)를 활용하여 FPGA 결과나 특정 툴의 결과 출력을 자동화했습니다.
-  - 컨플루언스(Confluence) API를 연동해 작업 결과 및 변경 내역을 자동으로 기록하도록 구현하였습니다.
-  - Python 스크립트를 사용해 기존 수동 작업을 자동화하여 운영 효율성을 크게 향상시켰습니다.
-  - **성능 개선:**  
-    - 기존 6번에 걸쳐 수행되던 작업을 1번으로 줄이는 성능 최적화를 달성했습니다.  
-    - 4번 정도 소요되던 작업을 하나의 프로세스로 통합하여 작업 효율성을 높였습니다.
+- **GitHub**: https://github.com/djgnfj-svg/Resee-project
+- Link : 배포 진행중
+- **Tech**: Django DRF, Celery, RabbitMQ, PostgreSQL, Redis, Claude API, Docker, AWS
 
-- **웹사이트 개발 및 운영 경험**  
-  - [**simple dict 프로젝트**](https://github.com/djgnfj-svg/Simple-Diet-Manager) ![role-badge](https://img.shields.io/badge/BE-blueviolet)
-    - Django를 기반으로 웹 애플리케이션을 개발하며 Django REST Framework(DRF)를 활용해 REST API를 구축하였습니다.
-    - Swagger(OpenAPI)를 사용하여 API 문서를 자동 생성하고, 이를 통해 API 사용 및 유지보수를 용이하게 하였습니다.
-    - JWT 인증 체계를 도입해 사용자 인증 및 보안을 강화하였습니다.
-    - Github Action을 활용한 CICD 파이프라인을 구성해 코드 변경 시 자동화된 테스트 및 배포를 진행하였습니다.
-    - (참고: 해당 코드베이스는 다소 이전 버전이지만, DRF의 다양한 기능들을 모두 경험하였습니다.)
+### 주요 기능 및 성과
 
-- **크롤링 외주 및 데이터 처리 프로젝트**  
-  - [크몽](https://kmong.com/@%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%91%ED%95%98)
-    - 여러 웹사이트의 데이터를 크롤링하여 정제 및 분석하였습니다.
-    - 리눅스 환경에서 비동기 프로그래밍 기법을 적용해 크롤링 성능을 최적화하였습니다.
-    - 데이터의 변화가 감지되면 텔레그램 봇을 통해 실시간으로 알림을 전송하는 시스템을 구축하였습니다.
-    - 크롤링 대상 웹사이트의 구조 변화에 유연하게 대응할 수 있도록 모듈화된 코드와 예외 처리 로직을 구현하였습니다.
+- **지능형 복습 스케줄링 엔진 설계:** Django Signals를 활용, 유저의 학습 패턴과 구독 등급에 따라 복습 주기를 실시간으로 재계산하는 핵심 도메인 로직 구현
+- **대규모 트래픽 처리 및 성능 개선:** Celery, RabbitMQ 기반 비동기 처리로 시스템 안정성을 확보하고, ORM 최적화 및 복합 인덱싱으로 **N+1 쿼리 문제 해결**
+- **인증·보안 아키텍처 구축:** JWT와 Google OAuth 2.0을 연동한 Multi-Provider 인증 시스템 및 API Throttling(요청 제한)을 적용하여 보안 강화
+- **안정적인 운영을 위한 모니터링 시스템:** Celery Beat 기반 주기적 헬스체크 및 24가지 메트릭을 수집하여 Slack으로 전송하는 자동 알림 시스템 설계
+- **마이크로서비스 기반 배포 자동화:** **7개 서비스**(Django, React, DB 등)를 Docker Compose로 통합 관리하고, GitHub Actions 기반의 CI/CD 파이프라인 완성
 
----
+### **KKUA | 실시간 멀티플레이어 끝말잇기 게임**
 
-## 🛠 Common Tech Stack (Mostly Use)
+WebSocket 기반 실시간 멀티플레이어 웹 게임 서버 개발 및 배포
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell%20script-4EAA25.svg?&style=for-the-badge&logo=shell&logoColor=white)
+- **GitHub**: https://github.com/djgnfj-svg/kkua
+- Link
+- **Tech**: FastAPI, WebSocket, PostgreSQL, Redis, Docker, AWS (EC2/RDS)
 
-**Frameworks & Libraries**  
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![django-rest-framework](https://img.shields.io/badge/django--rest--framework-092E20.svg?&style=for-the-badge&logo=django-rest-framework&logoColor=white)
+### 주요 기능 및 성과
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+- **실시간 서버 엔진 개발:** WebSocket, asyncio 기반 서버 구축, 동시 접속 100명 환경에서 **응답 속도 50ms 미만** 달성
+- **DB·API 성능 최적화:** Redis 캐싱 도입으로 DB 쿼리 **85% 감소** 및 API 응답 속도 **80% 향상**
+- **CI/CD 파이프라인 구축:** Docker, GitHub Actions 기반 배포 자동화, 배포 시간 **70% 단축** (10분→3분)
+- **인프라 확장 및 안정화:** Load Balancer를 이용한 트래픽 분산 및 서버 부하 최소화로 안정성 확보
+- **선제적 장애 대응 시스템 설계:** 임계치(동시 접속자 수) 기반 Slack 자동 알림 시스템 구축
 
-**IDE & Assist Programs**  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+### **웹 크롤링 프리랜서 프로젝트**
+
+**기간**: 2024.01 ~ 2024.07
+
+**Tech**: Python, aiohttp, asyncio, Telegram API
+
+### 주요 기능 및 성과
+
+- **aiohttp, asyncio 기반의 비동기 웹 크롤러 개발**로 대규모 데이터 수집 성능 최적화
+- **데이터 변경 감지 및 Telegram API를 연동한 자동 알림 봇 구현**
+- **변화에 유연한 크롤링 아키텍처 설계**를 통해 유지보수 비용 최소화
 
 ---
 
-## 🛠 Other Tech Stack (Used at least once)
+### **Education & Activities**
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df12.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+**42 Seoul** | Common Core (2023.01 - 2024.01)
 
-**Frameworks & Libraries**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009488.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
-
-**IDEs & Assist Programs**  
-![Cursor](https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
+- C언어 기반의 심층 학습 및 알고리즘 문제 해결 능력 함양
+- 동료 학습 및 코드 리뷰를 통해 협업 및 커뮤니케이션 역량 강화
