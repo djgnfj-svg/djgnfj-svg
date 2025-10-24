@@ -17,7 +17,7 @@ Chips&Media QA팀에서 Python, shell script 자동화로 엔지니어들의 시
 
 INFO) </br>
 이력서 - https://djgnfjshop.notion.site/backend-developer-2939110f38f880bdb635fa8e55bd34d0?source=copy_link </br>
-blog - https://djgnfjshop.notion.site/2769110f38f880e88ce7c858997ea439?source=copy_link
+blog - https://djgnfjshop.notion.site/2769110f38f880e88ce7c858997ea439?source=copy_link </br>
 외주 - https://kmong.com/@개발자작하
 
 ### **기술 스택 (Tech Stack)** </br>
