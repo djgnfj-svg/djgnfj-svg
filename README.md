@@ -17,5 +17,3 @@ INFO) </br>
 - **Database**: PostgreSQL, Redis </br>
 - **DevOps**: AWS ECS, Docker, GitHub Actions </br>
 - **Libraries & Tools**: Celery, LangGraph 
-
-현재는 airflow 를 배워보면서 데이트를 수집해 데이터 웨어하우스를 만들어보고 있습니다.
