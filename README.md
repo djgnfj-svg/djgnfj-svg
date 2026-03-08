@@ -1,18 +1,21 @@
-안녕하세요. 백앤드 개발자 송영재 입니다.
+## 송영재 | Python Fullstack Developer
 
-개발할때 어떤 기술을 배우는데 열려있고 필요한 기술을 필요한만큼 배워서 사용하는걸 좋아합니다. </br>
-핵심을 이해하는 소통을 좋아하고 검증까지 완료 되어야 개발이 끝난거다 라는 생각을 가지고 있습니다.
- 
-운영하는 사이트 </br>
-면접 연습 사이트 - [resee](https://reseeall.com) </br>
+Python 기반 웹/GUI 개발과 업무 자동화 경험을 가진 풀스택 개발자입니다.
 
-INFO) </br>
-[이력서](https://djgnfjshop.notion.site/backend-developer-2939110f38f880bdb635fa8e55bd34d0?source=copy_link) </br>
-[외주](https://kmong.com/@개발자작하)
+- FastAPI + React 웹 시스템 설계·운영 (로봇 관제 시스템 웹 전환)
+- Python 자동화로 배치 처리 95% 개선(9h→30min), 팀 수작업 주 30시간 제거
+- LangGraph 기반 AI 파이프라인 설계 및 운영
 
-### **기술 스택 (Tech Stack)** </br>
-- **Language**: Python </br>
-- **Frameworks**: Django(DRF) </br>
-- **Database**: PostgreSQL, Redis </br>
-- **DevOps**: AWS ECS, Docker, GitHub Actions </br>
-- **Libraries & Tools**: Celery, LangGraph 
+### 운영 중인 서비스
+**면접 연습 사이트** - [reseeall.com](https://reseeall.com)
+
+### 기술 스택
+- **Language**: Python
+- **Backend**: Django(DRF), FastAPI, Celery
+- **Frontend**: React
+- **DB**: PostgreSQL, Redis
+- **DevOps**: Docker, AWS ECS, Nginx, GitHub Actions
+- **AI**: LangGraph, LangChain
+
+### 링크
+- [외주 프로필](https://kmong.com/@개발자작하) (크롤링 64건, 전체 만점)
