@@ -4,7 +4,7 @@
 핵심을 이해하는 소통을 좋아하고 검증까지 완료 되어야 개발이 끝난거다 라는 생각을 가지고 있습니다.
  
 운영하는 사이트 </br>
-복습 사이트 - [resee](https://reseeall.com) </br>
+면접 연습 사이트 - [resee](https://reseeall.com) </br>
 
 INFO) </br>
 [이력서](https://djgnfjshop.notion.site/backend-developer-2939110f38f880bdb635fa8e55bd34d0?source=copy_link) </br>
