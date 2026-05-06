@@ -11,12 +11,19 @@
 
 ### Tech Stack
 
+**Language**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Projects
@@ -28,3 +35,9 @@
 
 - Email: djgnfj3795@gmail.com
 - [Kmong 프로필](https://kmong.com/@개발자작하)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djgnfj-svg&show_icons=true&hide_border=true" height="150" />
+</p>
