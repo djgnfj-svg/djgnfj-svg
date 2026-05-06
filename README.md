@@ -35,9 +35,3 @@
 
 - Email: djgnfj3795@gmail.com
 - [Kmong 프로필](https://kmong.com/@개발자작하)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djgnfj-svg&show_icons=true&hide_border=true" height="150" />
-</p>
